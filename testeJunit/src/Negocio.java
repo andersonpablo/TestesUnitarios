@@ -30,6 +30,4 @@ public final class Negocio {
 	  return preco * quantidade;
 	}
   
-  
-
-}
+  }
